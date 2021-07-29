@@ -27,3 +27,11 @@ git add .
 ```bash
 git commit -m "First Commit"
 ```
+```bash
+git add . && git commit -m "Updated README.md" 
+```
+```bash
+git remote add origin https://github.com/AvinashWaghmare/Complaint_App_Model.git
+git branch -M main
+git push origin main
+```
