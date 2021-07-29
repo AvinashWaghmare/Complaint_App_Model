@@ -21,3 +21,9 @@ dvc init
 ```bash
 dvc add data_given/com.csv
 ```
+```bash
+git add .
+```
+```bash
+git commit -m "First Commit"
+```
